@@ -26,5 +26,5 @@ Locate the `<toolboxControls>` section and add this line:
 2. Drop the splash control into the page that the user normally browses to. This could be the home page or a landing page.  
    It does not matter where the control is on the page, it will do it's magic before anything is actually shown on the page.
 3. Configure the splash control  
-   ![Configuration dialog](http://www.alanta.nl/img/github-splash/configure.png)  
+   ![Configuration dialog](https://github.com/alanta/sitefinity-splash/wiki/images/configure.png)  
    Click the `(?)` next to each setting for more information on that particular setting.
